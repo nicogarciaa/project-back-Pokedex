@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "pokemon",
+      "database": "Pokemon",
+      "username": "pokemon",
+      "password": "123456",
+      "group": "public"
+    }
+  ]
+}
